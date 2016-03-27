@@ -1,0 +1,42 @@
+angular.module('app.controllers', [])
+  
+.controller('profileCtrl', function($scope) {
+
+})
+   
+.controller('friendSListCtrl', function($scope) {
+
+})
+   
+.controller('feedCtrl', function($scope) {
+
+})
+      
+.controller('loginCtrl', function($scope) {
+
+})
+   
+.controller('signupCtrl', function($scope) {
+
+})
+   
+.controller('editProfileCtrl', function($scope) {
+
+})
+   
+.controller('editFriendCtrl', function($scope) {
+
+})
+   
+.controller('addFriendCtrl', function($scope) {
+
+})
+   
+.controller('addFriend2Ctrl', function($scope) {
+
+})
+   
+.controller('pokesCtrl', function($scope) {
+
+})
+ 
